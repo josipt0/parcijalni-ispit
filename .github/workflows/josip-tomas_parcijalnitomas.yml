@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'parcijalnitomas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED8C79F5828D4F2B8FDD12C47715FFE4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_302C55AAA595438BB66800601635DCAA }}
           package: .
